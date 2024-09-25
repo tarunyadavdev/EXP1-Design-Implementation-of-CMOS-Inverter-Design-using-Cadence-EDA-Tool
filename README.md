@@ -31,6 +31,7 @@ i)	Procedure for Creating New Library.
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
+
 ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
@@ -46,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![EXP1 using python](https://github.com/user-attachments/assets/604f30e7-4f07-4ba8-b021-af1353e1a8c7)
+![1](https://github.com/user-attachments/assets/5b461935-24c6-4a45-9273-fb212c952132)
+
 
 
  
@@ -64,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](![2](https://github.com/user-attachments/assets/d92aad5e-33d1-4649-ba8a-9d3fc39d18d5))
+![2](https://github.com/user-attachments/assets/9a8c52a2-3828-4e89-a58c-e82b5a48df5f)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +79,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](![3](https://github.com/user-attachments/assets/28a9594d-7ea8-4ecb-a0d8-dd75befd4682))
+![3](https://github.com/user-attachments/assets/e19a57f4-cdab-4d80-9cc0-1ebb790ea670)
+
 
 
  
@@ -95,15 +99,18 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  
- ![image](![5](https://github.com/user-attachments/assets/a8e427f5-43d9-467f-a46a-581a013e8e54))
+![5](https://github.com/user-attachments/assets/a32b56fb-3b4f-4620-b6cd-a8bf13c44461)
 
- ![image](![6](https://github.com/user-attachments/assets/1da1657d-0ded-4f99-b801-da9c8cfb473b))
+
+![6](https://github.com/user-attachments/assets/580fe662-7793-42fd-9799-69d82c0a05f6)
+
 
  For DC Analysis Settings and Output
-![image](![7](https://github.com/user-attachments/assets/9efb831e-332b-43b6-86ef-52dd891555fb))
+![7](https://github.com/user-attachments/assets/5b03a844-fb3f-4798-9a75-b2835cc4b869)
 
-![image](![8](https://github.com/user-attachments/assets/aa617c55-0908-49c1-a74b-b417015d1796)
-)
+
+![8](https://github.com/user-attachments/assets/20bafa90-8eda-48c7-b740-20adb32d542d)
+
 
  
 
