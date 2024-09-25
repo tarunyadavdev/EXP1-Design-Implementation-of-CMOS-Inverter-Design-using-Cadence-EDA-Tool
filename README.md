@@ -102,7 +102,8 @@ For Transient Analysis Settings and Output
  For DC Analysis Settings and Output
 ![image](![7](https://github.com/user-attachments/assets/9efb831e-332b-43b6-86ef-52dd891555fb))
 
-![image](![8](https://github.com/user-attachments/assets/dd08d34e-e6fd-4ab8-a1bc-95ed1159a858))
+![image](![8](https://github.com/user-attachments/assets/aa617c55-0908-49c1-a74b-b417015d1796)
+)
 
  
 
